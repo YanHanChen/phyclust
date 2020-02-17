@@ -1,4 +1,4 @@
-### This file contains functions for print and summary.
+### Thais file contains functions for print and summary.
 
 ### Print phyclust
 print.phyclust <- function(x, digits = max(4, getOption("digits") - 3), ...){
