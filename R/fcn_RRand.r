@@ -1,5 +1,5 @@
 ### This file contains a wrap to call C function in "src/R_RRand.c".
-### Written: Wei-Chen Chen on 2008/10/27.
+### Written: WWW-Chen Chen on 2008/10/27.
 
 
 # Call:
